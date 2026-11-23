@@ -1,0 +1,6 @@
+{
+  "name": "TaxCollect",
+  "description": "TaxCollect – Smart Tax Management System: AI-powered accounting and tax management application designed for the Algerian tax system with bilingual English (LTR) and Arabic (RTL) support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
